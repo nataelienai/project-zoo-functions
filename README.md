@@ -38,7 +38,7 @@ Para executar todos os testes:
 npm test
 ```
 
-Para executar um teste específico, execute npm test com o caminho do arquivo de teste, por exemplo:
+Para executar um teste específico, execute `npm test` com o caminho do arquivo de teste, por exemplo:
 
 ```
 npm test test/getSchedule.test.js
