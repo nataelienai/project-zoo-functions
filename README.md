@@ -43,3 +43,5 @@ Para executar um teste específico, execute `npm test` com o caminho do arquivo 
 ```
 npm test test/getSchedule.test.js
 ```
+
+---
